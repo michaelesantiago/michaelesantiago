@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I’m Mike — a tech enthusiast and aspiring developer passionate about building practical and user-friendly applications. I enjoy learning new technologies, solving problems, and continuously improving my skills through hands-on projects.
+
 <!--
 **michaelesantiago/michaelesantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
