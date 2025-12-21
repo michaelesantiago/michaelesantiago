@@ -19,7 +19,8 @@ New Era University
 
 [Oracle Data Platform 2025 Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=68FE326E4A78456F83EF5ED293711BED897DABD5C193F603B20CC8677DDD205E)
 
-[Oracle Cloud Infrastructure 2025 AI Foundations Associate]
+[Oracle Cloud Infrastructure 2025 AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=7D0E58C1C11889C4FEB86B970B2A73DEAB540217BE6F4DA3F38E08A429C95711)
+
 
 ---
 
